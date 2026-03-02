@@ -72,5 +72,8 @@
             </p>
         </div>
     </div>
+    <a href="/env-demo" class="inline-block mt-6 px-8 py-4 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition">
+    Try Environment Config Demo →
+</a>
 </body>
 </html>

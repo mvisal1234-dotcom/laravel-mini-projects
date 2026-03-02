@@ -12,3 +12,6 @@ Route::get('/hello', function () {
 Route::get('/structure', function () {
     return view('structure');
 });
+Route::get('/env-demo', function () {
+    return view('env-demo');
+});
