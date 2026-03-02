@@ -74,6 +74,20 @@
     </div>
     <a href="/env-demo" class="inline-block mt-6 px-8 py-4 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition">
     Try Environment Config Demo →
+    <div class="mt-12 text-center space-y-6">
+    <h2 class="text-3xl font-bold text-gray-800">My Mini Projects</h2>
+    <div class="flex flex-wrap justify-center gap-6">
+        <a href="/structure" class="inline-block px-8 py-4 bg-indigo-600 text-white font-semibold rounded-lg hover:bg-indigo-700 transition">
+            Project 1: Folder Structure
+        </a>
+        <a href="/env-demo" class="inline-block px-8 py-4 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition">
+            Project 2: Environment Config
+        </a>
+        <a href="/artisan-report" class="inline-block px-8 py-4 bg-purple-600 text-white font-semibold rounded-lg hover:bg-purple-700 transition">
+            Project 3: Artisan Commands
+        </a>
+    </div>
+</div>
 </a>
 </body>
 </html>

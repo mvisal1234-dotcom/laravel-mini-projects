@@ -14,4 +14,11 @@ Route::get('/structure', function () {
 });
 Route::get('/env-demo', function () {
     return view('env-demo');
+    
+});
+Route::get('/artisan-report', function () {
+    return view('/artisan-report');
+});
+Route::get('/artisan-report', function () {
+    return view('artisan-report');
 });
